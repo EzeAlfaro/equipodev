@@ -3,7 +3,7 @@ import type { MiembroEquipo } from '../types';
 export const equipo: MiembroEquipo[] = [
   {
     id: 'miembro-1',
-    nombre: 'Carlos Rodríguez',
+    nombre: 'Ezequiel Alfaro',
     rol: 'Full-Stack Developer & Team Lead',
     especialidades: ['React', 'Node.js', 'TypeScript', 'PostgreSQL', 'AWS'],
     experienciaAnios: 8,
@@ -15,7 +15,7 @@ export const equipo: MiembroEquipo[] = [
   },
   {
     id: 'miembro-2',
-    nombre: 'Ana García',
+    nombre: 'Agustina Silva',
     rol: 'Frontend Developer & UX/UI Designer',
     especialidades: ['React', 'Vue.js', 'Figma', 'Tailwind CSS', 'Framer Motion'],
     experienciaAnios: 6,
